@@ -1,0 +1,23 @@
+{
+  "name": "ERLS4d",
+  "version": "0.1.0",
+  "author": "Karel Wintersky <karel.wintersky@gmail.com>",
+  "description": "E.R.L.S. 4th Edition",
+  "keywords": [
+    "НРИ",
+    "ролевая система"
+  ],
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "repository": [
+    {
+      "type": "git",
+      "url": "https://github.com/KarelWintersky/kwERLS4d.git"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-markdown": "^0.7.0"
+  }
+}
