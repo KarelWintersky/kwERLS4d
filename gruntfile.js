@@ -48,4 +48,6 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-ftp-deploy');
 
     grunt.registerTask('default', ['concat', 'markdown', 'ftp-deploy']);
+
 };
+console.log('http://karel.wintersky.ru/erls4/erls4d.html');
